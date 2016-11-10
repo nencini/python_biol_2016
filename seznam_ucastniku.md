@@ -5,4 +5,5 @@
 Brenda Tomčalová Dasypus Novemcinctus
 Filip Sedlák Canis Lupus
 Dieu Hien Ho Ochotona Princeps
+Aneta Kubištová Taeniopygia Guttata
 ```
