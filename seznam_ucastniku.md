@@ -8,4 +8,5 @@ Dieu Hien Ho Ochotona Princeps
 Pavla Coufalová Loxodonta Africana
 Filip Nemčko Takifugu rubripes
 Markéta Šafaříková Equus Caballus
+Vojta Tláskal Myotis Lucifugus
 ```
