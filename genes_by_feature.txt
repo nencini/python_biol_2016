@@ -1,0 +1,8 @@
+misc_RNA 42
+rRNA 144
+snoRNA 254
+protein_coding 11978
+snRNA 507
+pseudogene 1496
+miRNA 525
+protein_coding 3312
